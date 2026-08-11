@@ -6,6 +6,10 @@ A modern React + Vite single-page app for comparing and selecting technology ser
 
 This portal helps small businesses compare tech service packages, customize their selections, and complete a checkout flow.
 
+## Demo
+
+- Live demo: https://reidtempe12.github.io/unified-tech-hub-portal/
+
 ## Features
 
 - Responsive React + Vite application
@@ -40,6 +44,18 @@ npm run build
 npm run preview
 ```
 
+## Deployment
+
+After building the app, publish the static site to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+The site is available at:
+
+https://reidtempe12.github.io/unified-tech-hub-portal/
+
 ## Project Structure
 
 - `src/` — application source files
@@ -49,4 +65,4 @@ npm run preview
 
 ## Notes
 
-This project was created as a prototype portal for pricing and checkout workflows in a modern frontend stack.
+This project is a fully fuctional web application designed to handle automated pricing rules and multi-step user checkouts. it si built using React, Vite, and Tailwind CSS to ensure a responsive , highly optimized user experience.
