@@ -65,4 +65,4 @@ https://reidtempe12.github.io/unified-tech-hub-portal/
 
 ## Notes
 
-This project is a fully fuctional web application designed to handle automated pricing rules and multi-step user checkouts. it si built using React, Vite, and Tailwind CSS to ensure a responsive , highly optimized user experience.
+This project is a fully functional web application designed to handle automated pricing rules and multi-step user checkouts. It is built using React, Vite, and Tailwind CSS to ensure a responsive, highly optimized user experience.
